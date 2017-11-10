@@ -1,0 +1,48 @@
+[33mcommit 3faead6b6bb36185cc4a627941f2899ef3c5fb0f[m[33m ([m[1;36mHEAD -> [m[1;32mbob[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 8eff714 8afdceb
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Fri Nov 10 09:32:40 2017 +0800
+
+    Merge branch 'feature1'
+
+[33mcommit 8eff71475a3ae10cfb243fbd6b4b73b07f732871[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Fri Nov 10 09:28:25 2017 +0800
+
+    & simple
+
+[33mcommit 8afdceb1bcfc760594095ae5a337993918375bba[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Fri Nov 10 09:26:44 2017 +0800
+
+    and simple
+
+[33mcommit 527ab03fbfc6493601e20b223d40f3c203fd5dba[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Thu Nov 9 23:36:25 2017 +0800
+
+    Test new branch B
+
+[33mcommit c5b19040de435ce277318bbbddb6b46b30e59f15[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Thu Nov 9 22:22:16 2017 +0800
+
+    Test deletion
+
+[33mcommit 6fd5dc6b37744c154e4ddd1113a04d4e0f25c886[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Thu Nov 9 21:54:13 2017 +0800
+
+    append GPL
+
+[33mcommit 786c27d124ea5990f23c6194a2ffb9c866d7e63b[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Thu Nov 9 21:51:46 2017 +0800
+
+    Test01
+
+[33mcommit c9e85c6ab33ff7a48e9a96a9649615954efc024e[m
+Author: Arthur.Chen.Chinese <cxhnan@qq.com>
+Date:   Thu Nov 9 21:45:23 2017 +0800
+
+    wrote a read me file
