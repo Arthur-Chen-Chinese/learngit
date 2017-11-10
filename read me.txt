@@ -5,3 +5,6 @@ Git has a mutable index called stage.
 
 New branch B.
 Creating a new branch is quick & simple.
+
+
+Branch is a stupid guy.
